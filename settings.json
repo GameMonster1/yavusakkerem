@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Yavusakkerem",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "sikisbagimlisi-aLK6.aternos.me",
+    "port": 21271,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
